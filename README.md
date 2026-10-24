@@ -9,6 +9,8 @@
 
 # TRSS Yunzai Plugin
 
+#saner自用版
+
 云崽机器人插件
 
 [![Stars](https://img.shields.io/github/stars/TimeRainStarSky/TRSS-Plugin?color=yellow&label=收藏)](../../stargazers)
@@ -24,16 +26,14 @@
 2. 安装
 
 ```
-git clone --depth 1 https://git.trss.me/TRSS-Plugin plugins/TRSS-Plugin
+git clone --depth 1 https://github.com/fengsaner/TRSS-Plugin.git plugins/TRSS-Plugin
 pnpm i
 ```
 
 <details><summary>若无法访问，请根据网络情况选择镜像源</summary>
 
 ```sh
-git clone --depth 1 https://github.com/TimeRainStarSky/TRSS-Plugin
-git clone --depth 1 https://gitee.com/TimeRainStarSky/TRSS-Plugin
-git clone --depth 1 https://gitcode.com/TimeRainStarSky/TRSS-Plugin
+git clone --depth 1 https://github.com/fengsaner/TRSS-Plugin.git
 ```
 
 </details>
